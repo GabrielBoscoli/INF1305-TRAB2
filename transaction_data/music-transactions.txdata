@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "musicExists",
+        "transactionLabel": "A test musicExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createMusic",
+        "transactionLabel": "A test createMusic transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readMusic",
+        "transactionLabel": "A test readMusic transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateMusic",
+        "transactionLabel": "A test updateMusic transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteMusic",
+        "transactionLabel": "A test deleteMusic transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
